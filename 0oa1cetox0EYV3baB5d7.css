@@ -10,7 +10,7 @@ background {
     background: red;
 }
 
-#okta-sign-in.auth-container {
+.okta-form-title {
     color: yellow !important;
 }
     
