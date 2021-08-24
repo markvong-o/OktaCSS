@@ -10,7 +10,7 @@ background {
     background: red;
 }
 
-#okta-sign-in.auth-container h2, #okta-sign-in.auth-container h3 {
-    color: green !important;
+#okta-sign-in.auth-container {
+    color: yellow !important;
 }
     
