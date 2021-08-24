@@ -11,6 +11,6 @@ background {
 }
 
 #okta-sign-in.auth-container h2, #okta-sign-in.auth-container h3 {
-    color: green;
+    color: green !important;
 }
     
