@@ -5,3 +5,8 @@ p {
 background {
     color: blue;
 }
+
+.login-bg-image {
+    background: red;
+}
+    
