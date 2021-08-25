@@ -1,4 +1,4 @@
-p {
+#okta-sign-in * {
     color: red;
 }
 
@@ -13,4 +13,11 @@ background {
 .o-form-head {
     color: blue !important;
 }
-    
+ 
+#okta-sign-in.auth-container.main-container {
+    background-color: green;
+}
+
+#okta-sign-in .beacon-blank {
+    background-color: yellow;
+}
