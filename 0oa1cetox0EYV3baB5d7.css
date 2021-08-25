@@ -7,5 +7,5 @@
 }
 
 #okta-sign-in .auth-content {
-    color: green;
+    color: green !important;
 }
