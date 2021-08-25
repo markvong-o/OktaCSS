@@ -1,9 +1,14 @@
 .login-bg-image {
     background: red;
+    background-image: none !important;
 }
 
 .o-form-head {
     color: blue !important;
+}
+
+#okta-sign-in.auth-container.main-container {
+    width: 60% !important;
 }
 
 #okta-sign-in .auth-content {
