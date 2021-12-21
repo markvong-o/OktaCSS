@@ -9,7 +9,7 @@ body {
     -webkit-font-smoothing: antialiased;
 }
 
-.login-bg-image {
+/*.login-bg-image {
     background: red;
     background-image: none !important;
 }
@@ -24,4 +24,4 @@ body {
 
 #okta-sign-in .auth-content {
     color: green !important;
-}
+}*/
