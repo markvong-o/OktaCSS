@@ -23,20 +23,17 @@
 
 #okta-sign-in .auth-content {
     font-family: var(--core-font);
-    width: 100% !important;
-    height: 100%;
 }
-
 
 #okta-sign-in.auth-container.main-container {
     border-radius: 16px;
     background-color: #1B1C1D;
     margin-top: 0;
+    width: 25rem;
 }
 
 #okta-sign-in .o-form .o-form-input .o-form-control {
     border-radius: 16px;
-    width: inherit;
     color: black !important;
 }
 
