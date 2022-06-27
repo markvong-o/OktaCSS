@@ -1,9 +1,4 @@
 /* Iron Bank React App */
-@import url('https://fonts.googleapis.com/css2?family=Monda&display=swap');
-:root {
-    --core-font: 'Monda', serif;
-    --core-color: #0975A5;
-}
 
 body {
     /* border: 1px black solid; */
@@ -47,7 +42,7 @@ body::after {
 }
 
 #okta-sign-in .auth-content {
-    font-family: var(--core-font);
+    font-family: 'Monda', serif;
 }
 
 #okta-sign-in.auth-container.main-container {
@@ -103,7 +98,7 @@ body::after {
   }
   
   .brand, li {
-      color: var(--core-color);
+      color: #0975A5;
   }
 
   #right-content {
