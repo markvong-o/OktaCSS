@@ -42,7 +42,7 @@
     border-radius: 16px;
 }
 
-/* #content {
+#content {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -88,4 +88,4 @@
     align-items: center;
     min-height: 100% !important;
     width: 50%;
-  } */
+  }
