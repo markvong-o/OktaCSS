@@ -4,6 +4,25 @@
     --core-font: 'Monda', serif;
     --core-color: #0975A5;
 }
+body {
+    border: 1px black solid;
+    background-color: rgba(0, 0, 0, 1);
+}
+
+body::after {
+    content: "";
+    background-image: url("/bank.jpg");
+    opacity: 0.2;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    z-index: -1;   
+  }
+
 #okta-sign-in * {
     color: white !important;
 }
