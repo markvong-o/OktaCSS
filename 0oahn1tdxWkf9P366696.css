@@ -4,6 +4,7 @@
     --core-font: 'Monda', serif;
     --core-color: #0975A5;
 }
+
 body {
     /* border: 1px black solid; */
     background-color: rgba(0, 0, 0, 1);
@@ -23,7 +24,7 @@ body::after {
     z-index: -1;   
   } */
 .login-bg-image {
-    background-image: url("/OktaCSS/bank.jpg");
+    background-image: url("/OktaCSS/bank.jpg") !important;
     opacity: 0.2;
     z-index: -1;
 }
