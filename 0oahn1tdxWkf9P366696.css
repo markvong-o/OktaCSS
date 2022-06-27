@@ -1,7 +1,13 @@
 /* Iron Bank React App */
+@import url('https://fonts.googleapis.com/css2?family=Monda&display=swap');
+:root {
+    --core-font: 'Monda', serif;
+    --core-color: #0975A5;
+}
 
 body {
     /* border: 1px black solid; */
+    font-family: var(--core-font);
     background-color: rgba(0, 0, 0, 1);
 }
 /*
